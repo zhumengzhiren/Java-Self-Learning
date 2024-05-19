@@ -1,6 +1,6 @@
 # Java-Self-Learning
 
-一个Java的自学仓库，里面包含了一些toy级别的代码。具体内容参考每周文件夹内的README文件。
+一个Java的自学仓库，里面包含了一些toy级别的代码和课程笔记。具体内容参考每周文件夹内的README文件。
 
 ## Source
 
